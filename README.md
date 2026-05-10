@@ -2,6 +2,7 @@
 ## Depth & Goal-Guided Vision Transformer for Visual Navigation
 
 📄 **Attention in Depth for Visual Navigation of a Mobile Robot**
+
 🔗 **Paper:** [https://doi.org/10.1016/j.rineng.2026.109680](https://doi.org/10.1016/j.rineng.2026.109680)
 ---
 
