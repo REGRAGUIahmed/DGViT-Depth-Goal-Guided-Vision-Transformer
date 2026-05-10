@@ -2,7 +2,7 @@
 ## Depth & Goal-Guided Vision Transformer for Visual Navigation
 
 📄 **Attention in Depth for Visual Navigation of a Mobile Robot**
-
+🔗 **Paper:** [https://doi.org/10.1016/j.rineng.2026.109680](https://doi.org/10.1016/j.rineng.2026.109680)
 ---
 
 ## 🚀 Overview
@@ -184,6 +184,33 @@ k9
 ## 🌫 Noise-Augmented Depth Images
 
 ![Depth Noise](Materials/noise_image_final.png)
+
+---
+
+## 📝 Citation
+
+If you use this framework or find our work helpful in your research, please consider citing our paper:
+
+**Plain Text:**
+
+> Regragui, A. et al. (2026). Attention in Depth for Visual Navigation of a Mobile Robot. *Results in Engineering*. DOI: 10.1016/j.rineng.2026.109680
+
+**BibTeX:**
+
+```bibtex
+@article{regragui2026attention,
+  title={Attention in Depth for Visual Navigation of a Mobile Robot},
+  author={Regragui, Ahmed and others},
+  journal={Results in Engineering},
+  year={2026},
+  doi={10.1016/j.rineng.2026.109680},
+  url={[https://doi.org/10.1016/j.rineng.2026.109680](https://doi.org/10.1016/j.rineng.2026.109680)}
+}
+
+```
+
+---
+
 
 ## 📜 License
 
